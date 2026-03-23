@@ -1,0 +1,101 @@
+Institute ID,Institute Name,TLR,RPC,GO,OI,PERCEPTION,City,State,Score,Rank
+IR-O-U-0456,Indian Institute of Technology Madras,84.56,83.53,87.13,66.08,94.14,Chennai,Tamil Nadu,83.88,1
+IR-O-U-0220,Indian Institute of Science,83.16,89.24,78.57,48.47,100,Bengaluru,Karnataka,82.28,2
+IR-O-I-1074,Indian Institute of Technology Delhi,78.3,82.98,79.14,58.58,86.14,New Delhi,Delhi,78.69,3
+IR-O-U-0306,Indian Institute of Technology Bombay,76.95,84.36,82.31,50.68,86.92,Mumbai,Maharashtra,78.62,4
+IR-O-U-0573,Indian Institute of Technology Kharagpur,67.36,76.65,86.17,60.63,78.11,Kharagpur,West Bengal,74.31,5
+IR-O-I-1075,Indian Institute of Technology Kanpur,71.95,69.61,69.96,50.39,75.68,Kanpur,Uttar Pradesh,69.07,6
+IR-O-U-0109,Jawaharlal Nehru University,76.75,41.85,99.87,75.87,55.27,New Delhi,Delhi,68.68,7
+IR-O-U-0560,Indian Institute of Technology Roorkee,67.32,65.08,87.14,61.64,43.66,Roorkee,Uttarakhand,67.68,8
+IR-O-U-0053,Indian Institute of Technology Guwahati,76.79,56.58,73.87,60.63,46.34,Guwahati,Assam,65.47,9
+IR-O-U-0500,Banaras Hindu University,69.72,46.48,96.37,57.01,47.28,Varanasi,Uttar Pradesh,64.55,10
+IR-O-U-0042,University of Hyderabad,74.81,43.78,83.64,58.77,36.71,Hyderabad,Telangana,61.85,11
+IR-O-U-0570,Calcutta University,62.26,47.1,91.54,60.14,37.39,Kolkata,West Bengal,60.87,12
+IR-O-U-0575,Jadavpur University,54.4,54.89,90.28,44.95,51.83,Kolkata,West Bengal,60.53,13
+IR-O-U-0439,Anna University,56.39,54.1,78.07,53.16,62.72,Chennai,Tamil Nadu,60.35,14
+IR-O-U-0436,Amrita Vishwa Vidyapeetham,73.03,43.77,70.28,70.23,31.01,Coimbatore,Tamil Nadu,59.22,15
+IR-O-U-0234,Manipal Academy of Higher Education,77.91,38.31,69.71,66.78,30.21,Manipal,Karnataka,58.5,16
+IR-O-U-0323,Savitribai Phule Pune University,69.26,44.42,86.04,54.34,16.55,Pune,Maharashtra,58.4,17
+IR-O-U-0496,Aligarh Muslim University,76.69,35.38,85.67,57.56,18.46,Aligarh,Uttar Pradesh,58.36,18
+IR-O-U-0108,Jamia Millia Islamia,73.74,32.04,88.53,71.97,14.26,New Delhi,Delhi,58.07,19
+IR-O-U-0120,University of Delhi,47.87,53.79,87.18,55.4,41.11,Delhi,Delhi,57.59,20
+IR-O-U-0447,Bharathiar University,66.93,45.04,76.53,52.11,31.2,Coimbatore,Tamil Nadu,57.23,21
+IR-O-U-0013,Indian Institute of Technology Hyderabad,70.91,40.82,67.47,58.77,40.33,Hyderabad,Telangana,56.92,22
+IR-O-U-0305,Indian Institute of Science Education & Research Pune,70.53,42.05,57.13,60.11,32.75,Pune,Maharashtra,54.48,23
+IR-O-U-0467,National Institute of Technology Tiruchirappalli,61.25,34.72,70.89,62.89,50.61,Tiruchirappalli,Tamil Nadu,54.32,24
+IR-O-U-0205,Indian Institute of Technology (Indian School of Mines) Dhanbad,54.72,50.98,76,39.42,25.54,Dhanbad,Jharkhand,53.4,25
+IR-O-S-8972,Indian Institute of Management Calcutta,78.8,17.12,62.55,67.62,46.34,Kolkata,West Bengal,52.68,26
+IR-O-U-0308,Institute of Chemical Technology,54.67,48.4,72.61,51.49,20.28,Mumbai,Maharashtra,52.62,27
+IR-O-U-0701,Indian Institute of Technology (Banaras Hindu University) Varanasi,62.09,39.44,68.32,54.48,29.2,Varanasi,Uttar Pradesh,52.49,28
+IR-O-U-0006,Andhra University,69.36,23.16,86.61,55.73,14.55,Visakhapatnam,Andhra Pradesh,52.11,29
+IR-O-U-0304,Homi Bhabha National Institute,83.26,25.24,71.18,47.29,4.33,Mumbai,Maharashtra,51.95,30
+IR-O-U-0107,Jamia Hamdard,69.64,29.92,74.12,63.52,6.86,New Delhi,Delhi,51.73,31
+IR-O-U-0490,Vellore Institute of Technology,48.7,47.63,66.55,57.02,35.31,Vellore,Tamil Nadu,51.44,32
+IR-O-I-1357,University of Madras,64.29,33.28,68.26,54.18,30.01,Chennai,Tamil Nadu,51.34,33
+IR-O-U-0078,Panjab University,51.02,44.82,72.5,52.89,27.09,Chandigarh,Chandigarh,51.25,34
+IR-O-U-0260,Kerala University,74.8,18.84,85.7,51.2,8.59,Thiruvananthapuram,Kerala,51.21,35
+IR-O-U-0584,Indian Institute of Engineering Science and Technology,62.98,36.74,66.47,47.19,30.41,Shibpur,West Bengal,50.96,36
+IR-O-U-0272,Indian Institute of Science Education & Research Bhopal,68.8,31.49,65.92,68.21,7.91,Bhopal,Madhya Pradesh,50.88,37
+IR-O-U-0357,National Institute of Technology Rourkela,54.23,45.65,68.68,45.97,24.4,Rourkela,Odisha,50.75,38
+IR-O-U-0391,Birla Institute of Technology & Science,56.68,34.14,73.06,52.26,34.41,Pilani,Rajasthan,50.53,39
+IR-O-U-0572,Indian Institute of Science Education & Research Kolkata,69.99,41.21,45.09,55.69,24.86,Mohanpur,West Bengal,50.44,40
+IR-O-U-0363,Siksha `O` Anusandhan,72.96,21.17,69.84,61.04,20.02,Bhubaneswar,Odisha,50.31,41
+IR-O-U-0523,King George`s Medical University,79.82,25.85,61.38,53.38,5.8,Lucknow,Uttar Pradesh,49.91,42
+IR-O-U-0027,Osmania University,58.2,24.95,92.09,55.68,9.26,Hyderabad,Telangana,49.86,43
+IR-O-U-0184,Indian Institute of Technology Mandi,67.62,28.36,64.56,65.68,11.2,Mandi,Himachal Pradesh,49.4,44
+IR-O-I-1480,Thapar Institute of Engineering and Technology (Deemed-to-be-university),62.13,36.3,65.31,56.58,10.24,Patiala,Punjab,49.27,45
+IR-O-U-0355,Indian Institute of Technology Bhubaneswar,64.64,32.91,55.57,57.61,25.99,Bhubaneswar,Odisha,48.73,46
+IR-O-U-0435,Alagappa University,66.72,22.18,71.17,49.75,26.65,Karaikudi,Tamil Nadu,48.54,47
+IR-O-U-0056,Tezpur University,66.92,30.1,63.47,50.99,15.71,Tezpur,Assam,48.47,48
+IR-O-U-0262,Mahatma Gandhi University,66.49,26.97,72.39,51.98,3.58,Kottayam,Kerala,48.08,49
+IR-O-U-0356,Kalinga Institute of Industrial Technology,66.01,18.1,71.7,69.38,14.55,Bhubaneswar,Odisha,47.97,50
+IR-O-U-0139,Indian Institute of Technology Gandhinagar,61.95,31.43,56.23,61.6,24.17,Gandhinagar,Gujarat,47.85,51
+IR-O-U-0473,SRM Institute of Science and Technology,56.67,26.51,78.07,58.09,14.26,Chennai,Tamil Nadu,47.8,52
+IR-O-U-0237,National Institute of Technology Karnataka,51.32,32.27,71.35,50.89,29.4,Surathkal,Karnataka,47.37,53
+IR-O-I-1486,Sri Ramachandra Institute of Higher Education and Research,73.84,16.57,70.49,55.04,6.15,Chennai,Tamil Nadu,47.34,54
+IR-O-U-0222,JSS Academy of Higher Education and Research,70.32,15.74,65.48,70.26,10.24,Mysore,Karnataka,46.97,55
+IR-O-U-0331,Tata Institute of Social Sciences,65.17,9.97,79.76,71.16,12.14,Mumbai,Maharashtra,46.82,56
+IR-O-U-0446,Bharath Institute of Higher Education & Research,68.09,17.76,64.96,72.53,3.19,Chennai,Tamil Nadu,46.32,57
+IR-O-U-0064,Indian Institute of Technology Patna,66.93,29.8,54.37,51.43,12.45,Patna,Bihar,46.28,58
+IR-O-U-0589,Visva Bharati,60.65,26.07,74.79,41.39,11.52,Santiniketan,West Bengal,46.27,59
+IR-O-U-0554,G. B. Pant Universtiy of Agriculture and Technology,71.58,15.49,75.65,43.02,5.44,Pantnagar,Uttarakhand,46.09,60
+IR-O-U-0025,National Institute of Technology Warangal,57.88,24.71,67.97,57.45,19.51,Warangal,Telangana,46.06,61
+IR-O-U-0341,North Eastern Hill University,67.86,14.53,75.72,54.75,6.51,Shillong,Meghalaya,45.99,62
+IR-O-U-0476,Shanmugha Arts Science Technology & Research Academy,55.55,32.38,65.16,57.13,6.86,Thanjavur,Tamil Nadu,45.8,63
+IR-O-U-0474,Sathyabama Institute of Science and Technology,59.17,27.15,65.86,62.79,2.41,Chennai,Tamil Nadu,45.58,64
+IR-O-U-0052,Gauhati University,66.09,18.08,74.7,44.24,9.59,Guwahati,Assam,45.57,65
+IR-O-U-0377,Indian Institute of Science Education & Research Mohali,66.43,25.27,45.39,70.98,17.38,Mohali,Punjab,45.43,66
+IR-O-I-1441,Saveetha Institute of Medical and Technical Sciences,69.98,17.64,62.16,67.15,0,Chennai,Tamil Nadu,45.42,67
+IR-O-U-0485,Tamil Nadu Agricultural University,74.72,11.58,69.31,45.1,11.52,Coimbatore,Tamil Nadu,45.41,68
+IR-O-U-0463,Madurai Kamraj University,63.94,28.11,57.1,41.36,20.28,Madurai,Tamil Nadu,45.2,69
+IR-O-I-1110,Dr. D. Y. Patil Vidyapeeth,77.38,7.61,62.46,63.71,7.56,Pune,Maharashtra,45.11,70
+IR-O-U-0098,Delhi Technological University,55.99,24.33,66.89,54.61,19.51,New Delhi,Delhi,44.89,71
+IR-O-U-0037,Sri Venkateswara University,62.46,23.6,69.63,44.79,6.51,Tirupati,Andhra Pradesh,44.88,72
+IR-O-U-0369,Pondicherry University,47.92,26.63,73.31,59.3,19.25,Puducherry,Pondicherry,44.88,72
+IR-O-U-0020,Koneru Lakshmaiah Education Foundation University (K L College of Engineering),67.17,19.07,63.8,57.15,3.58,Vaddeswaram,Andhra Pradesh,44.7,74
+IR-O-U-0381,Punjab Agricultural University,76.97,19.74,56.22,40.93,3.19,Ludhiana,Punjab,44.66,75
+IR-O-C-37013,PSG College of Technology,63.69,12.61,61.03,49.95,43.66,Coimbatore,Tamil Nadu,44.46,76
+IR-O-U-0642,Shiv Nadar University,69.46,14.05,61.53,64.61,6.15,Dadri,Uttar Pradesh,44.45,77
+IR-O-C-16604,Sri Sivasubramaniya Nadar College of Engineering,62.4,22.97,63.44,52.92,7.56,Kancheepuram,Tamil Nadu,44.35,78
+IR-O-U-0196,University of Kashmir,59.82,18.33,79.2,47.36,1.63,Srinagar,Jammu and Kashmir,44.19,79
+IR-O-U-0235,Mysore University,57.3,18.15,78.43,52.67,4.7,Mysore,Karnataka,44.06,80
+IR-O-U-0376,Guru Nanak Dev University,46.51,29.38,74.72,54.02,5.8,Amritsar,Punjab,43.69,81
+IR-O-U-0329,Symbiosis International,70.01,9.43,61.03,72.88,3.19,Pune,Maharashtra,43.65,82
+IR-O-N-10,SVKM`s Narsee Monjee Institute of Management Studies,68.83,11.68,64.22,65.21,1.22,Mumbai,Maharashtra,43.63,83
+IR-O-U-0497,Amity University,50.11,28.3,65.48,61.94,7.22,Gautam Budh Nagar,Uttar Pradesh,43.53,84
+IR-O-U-0202,Birla Institute of Technology,54.72,29.47,56.97,44.88,23.47,Ranchi,Jharkhand,43.49,85
+IR-O-U-0448,Bharathidasan University,60.74,29.05,48.92,42.77,24.17,Tiruchirappalli,Tamil Nadu,43.41,86
+IR-O-U-0389,Banasthali Vidyapith,50.4,11.67,84.87,72.01,4.33,Banasthali,Rajasthan,43.22,87
+IR-O-I-1361,Bharati Vidyapeeth,63.91,11.42,64.49,60.23,13.66,Pune,Maharashtra,42.89,88
+IR-O-U-0159,Chaudhary Charan Singh Haryana Agricultural University,76.87,6.91,56.41,57.5,2.02,Hisar,Haryana,42.36,89
+IR-O-U-0251,Calicut University,56.32,16.46,71.53,53.45,7.22,Malappuram,Kerala,42.22,90
+IR-O-C-41593,College of Engineering,56.36,20.52,61.36,52.28,15.42,Pune,Maharashtra,42.11,91
+IR-O-U-0295,Datta Meghe Institute of Medical Sciences,75.46,3.16,60.57,59.48,0.82,Wardha,Maharashtra,41.73,92
+IR-O-U-0577,National Institute of Technology Durgapur,47.06,28.96,64.01,47.7,12.14,Durgapur,West Bengal,41.59,93
+IR-O-U-0253,Cochin University of Science and Technology,47.22,26.88,64.8,47.56,14.84,Cochin,Kerala,41.42,94
+IR-O-U-0099,Guru Gobind Singh Indraprastha University,56.39,18.96,64.62,53.19,3.58,New Delhi,Delhi,41.21,95
+IR-O-U-0123,Anand Agricultural University,69.48,12.25,59.12,41.45,7.22,Anand,Gujarat,41.2,96
+IR-O-U-0470,Periyar University,52.3,20.74,59.13,53.26,19.25,Salem,Tamil Nadu,40.99,97
+IR-O-U-0225,KLE Academy of Higher Education and Research,71.23,8.73,49.52,66.05,4.33,Belagavi,Karnataka,40.92,98
+IR-O-U-0239,NITTE,70.38,9.31,48.61,66.11,6.51,Mangaluru,Karnataka,40.88,99
+IR-O-U-0487,Tamil Nadu Veterinary & Animal Sciences University,70.98,8.01,62.85,44.12,2.02,Chennai,Tamil Nadu,40.88,99

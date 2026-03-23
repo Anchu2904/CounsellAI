@@ -1,0 +1,35 @@
+# CounsellAI – Python dependencies
+# Install with:  pip install -r requirements.txt
+
+# ── Core LangChain stack ───────────────────────────────────────────────────────
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-core>=0.2.0
+langchain-huggingface>=0.0.3
+langgraph>=0.1.0
+
+# ── LLM providers (install both; app picks based on available API key) ─────────
+langchain-openai>=0.1.0       # GPT-4o-mini
+langchain-groq>=0.1.0         # Llama-3.1-70B
+
+# ── Vector store ──────────────────────────────────────────────────────────────
+chromadb>=0.5.0
+
+# ── Embeddings ────────────────────────────────────────────────────────────────
+sentence-transformers>=2.7.0  # BGE-large-en-v1.5
+torch>=2.0.0                  # CPU build is fine for embeddings
+
+# ── Document loaders ──────────────────────────────────────────────────────────
+pypdf>=4.0.0                  # PyPDFLoader
+unstructured>=0.14.0          # fallback loader (optional but recommended)
+
+# ── UI ────────────────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+
+# ── PDF generation ────────────────────────────────────────────────────────────
+fpdf2>=2.7.9
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0          # load .env files for API keys
+tiktoken>=0.7.0               # token counting for OpenAI
+pydantic>=2.0.0

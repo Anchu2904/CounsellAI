@@ -1,0 +1,101 @@
+Institute ID,Institute Name,TLR,RPC,GO,OI,PERCEPTION,City,State,Score,Rank
+NIRF-ENGG-INF-77,"Indian Institute Of Technology, Madras",88.26,94.02,81.81,86.11,98,Chennai,Tamil Nadu,89.41,1
+NIRF-ENGG-INF-312,"Indian Institute Of Technology, Bombay",85.93,94.14,84.97,74.84,99,Bombay,Maharashtra,87.66,2
+NIRF-ENGG-INF-300,"Indian Institute Of Technology, Kharagpur",76.23,92.68,83.95,78.05,97,Kharagpur,West Bengal,83.91,3
+NIRF-ENGG-INF-79,"Indian Institute Of Technology, Delhi",80.27,91.62,74.72,66.17,98,New Delhi,Delhi,82.02,4
+NIRF-ENGG-INF-228,"Indian Institute Of Technology, Kanpur",66.08,93.52,85.62,70.59,98,Kanpur,Uttar Pradesh,81.07,5
+NIRF-ENGG-INF-78,"Indian Institute Of Technology, Roorkee",67.83,83.5,81.61,76.59,96,Roorkee,Uttarakhand,78.68,6
+NIRF-ENGG-INF-345,"Indian Institute Of Technology, Hyderabad",76.76,76.83,80.89,63.76,95,Hyderabad,Telangana,77.22,7
+NIRF-ENGG-INF-298,"Indian Institute Of Technology, Gandhinagar",80.36,72.09,64.91,71.94,96,Ahmedabad,Gujarat,75.2,8
+NIRF-ENGG-INF-340,"Indian Institute Of Technology, Ropar-Rupnagar",89.96,73.56,86.42,60.67,38,Rupnagar,Punjab,74.88,9
+NIRF-ENGG-INF-344,"Indian Institute Of Technology, Patna",79.8,68.29,74.13,68.78,93,Patna,Bihar,74.68,10
+NIRF-ENGG-INF-299,"Indian Institute Of Technology, North Guwahati",71.92,78.66,71.82,65.62,94,Guwahati,Assam,74.62,11
+NIRF-ENGG-INF-370,"National Institute Of Technology, Tiruchirappalli",56.99,80.37,81.5,79.5,92,Tiruchirappalli,Tamil Nadu,74.45,12
+NIRF-ENGG-768,Vellore Institute Of Technology,66.95,74.72,77.38,77.11,91,Vellore,Tamil Nadu,74.4,13
+NIRF-ENGG-INF-423,"Indian Institute Of Technology (Banaras Hindu University), Varanasi",59.08,80.63,96.8,56.73,96,Varanasi,Uttar Pradesh,74.39,14
+NIRF-ENGG-INF-373,Sardar Vallabhbhai National Institute Of Technology,59.02,85.24,78.43,68.81,83,Surat,Gujarat,73.13,15
+NIRF-ENGG-INF-346,"Indian Institute Of Technology, Indore",86.75,75.78,89.85,39.23,46,Indore,Madhya Pradesh,72,16
+NIRF-ENGG-1-2451694143,Birla Institute Of Technology,55.39,81.06,82.47,65.5,90,RANCHI,Jharkhand,71.8,17
+NIRF-ENGG-INF-225,"Visvesvaraya National Institute Of Technology, Nagpur (Deemed University)-Nagpur",59.98,73.64,69.05,82.7,85,Nagpur,Maharashtra,71.29,18
+NIRF-ENGG-INF-140,"National Institute Of Technology, Rourkela-Rourkela",60.78,75.69,81.49,73.21,74,Rourkela,Odisha,70.8,19
+NIRF-ENGG-INF-NEW11,"Indian Institute Of Engineering Science And Technology, Shibpur",57.76,83.07,76.07,59.5,87,Howrah,West Bengal,70.35,20A
+NIRF-ENGG-INF-338,"Indian Institute Of Technology, Mandi",85.83,70.35,81.05,47.29,43,Mandi,Himachal Pradesh,70.32,20
+NIRF-ENGG-1-2453839794,"College Of Engineering, Pune",58.61,66.4,82.92,74.67,95,PUNE,Maharashtra,69.71,21
+NIRF-ENGG-INF-363,"National Institute Of Technology, Karnataka-Mangalore",60.26,67.86,77.29,70.22,88,Mangalore,Karnataka,68.95,22
+NIRF-ENGG-INF-357,Motilal Nehru National Institute Of Technology,54.63,72.07,74.08,75.04,82,Allahabad,Uttar Pradesh,67.94,23
+NIRF-ENGG-1-2451585489,Psg College Of Technology-Coimbatore,56.72,64.67,77.3,72.1,94,COIMBATORE,Tamil Nadu,67.8,24
+NIRF-ENGG-INF-301,"Indian Institute Of Technology, Jodhpur",73.02,66.41,60.71,60.11,86,Jodhpur,Rajasthan,67.68,25
+NIRF-ENGG-INF-296,"Indian Institute Of Technology, Bhubaneswar",67.4,75.73,61.06,51.57,85,Bhubaneswar,Odisha,67.58,26
+NIRF-ENGG-1-2454118012,Thapar University-Patiala,49.43,78.7,77.69,64.58,83,PATIALA,Punjab,67.51,27
+NIRF-ENGG-INF-247,"National Institute Of Technology, Warangal",58.2,71.82,75.41,61.2,82,Warangal,Telangana,67.12,28
+NIRF-ENGG-1-2452436680,Thiagarajar College Of Engineering-Madurai,57.93,75.86,80.94,57.91,63,MADURAI,Tamil Nadu,66.51,29
+NIRF-ENGG-INF-361,"National Institute Of Technology, Durgapur",49.24,79.62,65.86,66.15,78,Durgapur,West Bengal,65.4,30
+NIRF-ENGG-1-2456108684,Amrita School Of Engineering,56.81,63.75,74.02,62.08,75,KARUNAGAPALLY,Kerala,63.94,31
+NIRF-ENGG-620,Shanmugha Arts Science Technology & Research Academy (Sastra),60.21,65.55,81,58.4,51,Thanjavur,Tamil Nadu,63.77,31A
+NIRF-ENGG-1-2452855119,Kalinga Institue Of Industrial Technology,60.63,73.91,83.55,70.31,1,BHUBANESWAR,Odisha,63.4,32
+NIRF-ENGG-1-2455786386,M. S. Ramaiah Institute Of Technology-Bangalore,40.32,72.19,95.08,66.33,61,BANGALORE,Karnataka,63.39,33
+NIRF-ENGG-1-2449931180,Coimbatore Institute Of Technology-Coimbatore,48.31,62.54,82.91,68.54,74,COIMBATORE,Tamil Nadu,62.58,34
+NIRF-ENGG-INF-142,"National Institute Of Technology, Calicut",56.09,71.53,72.03,64.42,40,Calicut,Kerala,62.26,35
+NIRF-ENGG-1-2451203119,R.V. College Of Engineering-Bengaluru,55.4,65.31,77.86,48.75,76,BENGALURU,Karnataka,62.26,35
+NIRF-ENGG-INF-240,"Malaviya National Institute Of Technology, Jaipur",55.13,71.63,74.32,62.16,41,Jaipur,Rajasthan,62.14,37
+NIRF-ENGG-1-2519066781,Pec University Of Technology-Chandigarh,62.21,55.58,70.83,55.49,77,CHANDIGARH,Chandigarh,61.32,38
+NIRF-ENGG-1-2456080951,Manipal Institute Of Technology,62.58,67.06,65.34,61.72,33,MANIPAL,Karnataka,61.15,39
+NIRF-ENGG-1-2455890291,Jamia Millia Islamia (A Central University),47.68,76.73,56.87,47.6,72,NEW DELHI,Delhi,60.18,41
+NIRF-ENGG-INF-293,"Dr. B R Ambedkar National Institute Of Technology, Jalandhar",46.65,74.56,81.02,61.7,25,Jalandhar,Punjab,59.91,42
+NIRF-ENGG-INF-333,"Indian Institute Of Science Education & Research, Mohali",59.29,82.22,13.39,50.12,83,Mohali,Punjab,59.58,43
+NIRF-ENGG-350,Karunya Institute Of Technology And Sciences,55.1,68.79,60.61,78.6,19,Coimbatore,Tamil Nadu,59.29,44
+NIRF-ENGG-512,"Institute Of Technology, Nirma University",48.41,54.52,67.95,69.27,81,Ahmedabad,Gujarat,59.23,45
+NIRF-ENGG-1-2456278780,Kongu Engineering College,47.51,66.33,77.98,72.56,32,PERUNDURAI,Tamil Nadu,59.06,46
+NIRF-ENGG-1-2456274762,sona College Of Technology-Salem,39.04,58.23,66.94,77.41,86,SALEM,Tamil Nadu,58.97,47
+NIRF-ENGG-INF-144,"National Institute Of Technology, Kurukshetra",53.15,64.82,78.28,53.95,41,Kurukshetra,Haryana,58.89,48
+NIRF-ENGG-1-2452861917,Pondicherry Engineering College,58.68,57.67,71.2,77.49,19,PUDUCHERRY,Pondicherry,58.79,49
+NIRF-ENGG-1-2449920071,"Amrita Viswa Vidyapeetham-Amrita Nagar (Po) ,Ettimadai",57.04,53.42,81.38,65.7,36,"AMRITA NAGAR (PO) ,ETTIMADAI",Tamil Nadu,58.78,50
+NIRF-ENGG-INF-145,"National Institute Of Technology, Hamirpur",41.6,73.08,77.24,63.3,41,Hamirpur,Himachal Pradesh,58.65,51
+NIRF-ENGG-INF-359,"National Institute Of Technology, Agartala",57.4,58.47,75.03,66.24,32,Agartala,Tripura,58.63,52
+NIRF-ENGG-1-2456189964,Kumaraguru College Of Technology-Coimbatore,57.49,58.03,69.44,70.34,32,COIMBATORE,Tamil Nadu,58.44,53
+NIRF-ENGG-57,B.S. Abdur Rahman Institute Of Science And Technology,61.16,61.37,63.61,65.39,21,Chennai,Tamil Nadu,57.8,54
+NIRF-ENGG-1-2455979851,Cochin University Of Science And Technology-Cochin,46.89,72.99,55.16,51.52,66,COCHIN,Kerala,57.69,55
+NIRF-ENGG-INF-372,Sant Longowal Institute Of Engineering & Technology-Sangrur,57.24,67.97,55.5,35.4,67,Sangrur,Punjab,57.52,56
+NIRF-ENGG-INF-365,"National Institute Of Technology, Meghalaya",73.56,51.98,75.3,38.57,33,Shillong,Meghalaya,57.47,57
+NIRF-ENGG-1-2451156700,Itm University - Gwalior (School Of Engineering & Technology)-Gwalior,46.14,58.6,69.8,76.6,47,GWALIOR,Madhya Pradesh,57.45,58
+NIRF-ENGG-363,Koneru Lakshmaiah Education Foundation,49.49,61.9,70.43,60.32,49,Guntur,Andhra Pradesh,57.37,59
+NIRF-ENGG-321,Jaypee Institute Of Information Technology,45.21,59.86,79.38,69.05,40,Noida,Uttar Pradesh,56.79,60
+NIRF-ENGG-1-2454054346,Bharati Vidyapeeth Deemed University College Of Engineering-Pune,55.6,34.04,90.52,75.5,50,PUNE,Maharashtra,56.56,61
+NIRF-ENGG-1-2449912182,Bannari Amman Institute Of Technology-Sathyamangalam,51.61,58.11,77.22,62.78,27,SATHYAMANGALAM,Tamil Nadu,56.21,62
+NIRF-ENGG-INF-368,"National Institute Of Technology, Raipur",46.48,62.13,75.15,63.84,31,Raipur,Chhattisgarh,55.93,63
+NIRF-ENGG-1-2451386658,Vishwakarma Institute Of Technology-Pune,43.67,64.68,77.11,48.56,48,PUNE,Maharashtra,55.7,64
+NIRF-ENGG-INF-141,"National Institute Of Technology, Silchar",55.75,58.12,66.08,71.32,12,Silchar,Assam,55.49,65
+NIRF-ENGG-516,Noorul Islam Centre For Higher Education,51.73,53.46,50.05,70.4,59,Kanyakumari,Tamil Nadu,55.45,66
+NIRF-ENGG-INF-358,"National Institute Of Technology, Srinagar",50.37,59.18,72.01,60.42,33,Kashmir,Jammu and Kashmir,55.3,67
+NIRF-ENGG-1-2453375226,"University Institute Of Chemical Technology, North Maharashtra University, Jalgaon",37.05,64.47,67.19,46.69,77,JALGAON,Maharashtra,54.91,68
+NIRF-ENGG-1-2451415750,National Institute Of Science & Technology-Berhampur,41.66,50.29,74.67,65.68,63,BERHAMPUR,Odisha,54.81,69
+NIRF-ENGG-1-2450669659,Siddaganga Institute Of Technology-Tumkur,52.98,51.91,72.17,66.37,30,TUMKUR,Karnataka,54.67,70
+NIRF-ENGG-1-2450577299,Chaitanya Bharathi Institute Of Technology-Hyderabad,44.1,47.74,69.08,64.91,73,HYDERABAD,Telangana,54.66,71
+NIRF-ENGG-230,Hindustan Institute Of Technology  And Science (Hits),52.71,41.67,69.01,79.65,42,Chennai,Tamil Nadu,54.32,72
+NIRF-ENGG-1-2452919762,Sagi Ramakrishnam Raju Engineering College-Bhimavaram,50.02,48.05,75.83,75.45,23,BHIMAVARAM,Andhra Pradesh,54.02,73
+NIRF-ENGG-1-2449860060,C.V.Raman College Of Engineering-Bhubaneswar,46.77,56.85,81.69,55.36,23,BHUBANESWAR,Odisha,53.91,74
+NIRF-ENGG-1-2453916713,Kasegaon Education Societys Rajarambapu Institute Of Technology-Islampur,43.98,41.32,73.89,66.09,75,ISLAMPUR,Maharashtra,53.69,75
+NIRF-ENGG-INF-404,"National Institute Of Technology, Goa",57.7,38.61,66.13,46.27,85,Ponda,Goa,53.65,76
+NIRF-ENGG-INF-424,"Pandit Dwarka Prasad Mishra Indian Institute Of Information Technology, Design And Manufacturing (IIITDM), Jabalpur",47.15,62.91,79,54.79,12,Jabalpur,Madhya Pradesh,53.37,77
+NIRF-ENGG-INF-362,"National Institute Of Technology, Jamshedpur",36.73,67.7,79.14,48.8,31,Jamshedpur,Jharkhand,53.35,78
+NIRF-ENGG-1-2451417043,Institute Of Engineering & Management-Kolkata,43.45,56.73,82.68,58.11,21,KOLKATA,West Bengal,53.26,79
+NIRF-ENGG-INF-410,"Indian Institute Of Information Technology, Design & Manufacturing (IIITD&M) Kancheepuram-Chennai",48.23,41.22,86.82,61.99,38,Chennai,Tamil Nadu,52.64,80
+NIRF-ENGG-1-2452796944,Centurion Institute Of Technology,50.24,53.01,67.05,75.26,12,JATNI,Odisha,52.58,81
+NIRF-ENGG-1-2455130573,College Of Technology And Engineering-Udaipur,53.51,61.8,50.46,49.2,34,UDAIPUR,Rajasthan,52.39,82
+NIRF-ENGG-1-2453523111,Veermata Jijabai Technological Institute,32.29,57.85,79.62,59.06,47,MUMBAI,Maharashtra,52.17,84
+NIRF-ENGG-1-2450743734,K. K. Wagh Institute Of Engineering Education & Research-Nashik,37.52,45.97,70.43,60.73,80,NASHIK,Maharashtra,51.92,85
+NIRF-ENGG-1-2454009090,"Shri Ramdeobaba College Of Engineering And Management, Ramdeo Tekdi, Gittikhadan, Katol Road, Nagpur-Nagpur",46.81,47.19,72.78,61.03,34,NAGPUR,Maharashtra,51.5,86
+NIRF-ENGG-INF-367,"National Institute Of Technology, Patna",46.73,52.37,66.9,55.69,37,Patna,Bihar,51.08,87
+NIRF-ENGG-773,"Vignan's Foundation For Science, Technology And Research",49.21,50.65,72.09,67.19,0,Guntur,Andhra Pradesh,50.65,88
+NIRF-ENGG-1-2453802770,Shri Guru Gobind Singhji Institute Of Engineering And Technology-Nanded,48.74,47.61,67.42,51.75,41,NANDED,Maharashtra,50.64,89
+NIRF-ENGG-1-2454313873,Sri Ramakrishna Engineering College-Coimbatore,46.62,56.15,67.8,65.62,6,COIMBATORE,Tamil Nadu,50.55,90
+NIRF-ENGG-1-2449883879,Bengal Institute Of Technology,28.7,50,92.06,47.01,59,KOLKATA,West Bengal,50.33,91
+NIRF-ENGG-INF-408,"National Institute Of Technology, Delhi",41.3,48.26,61.61,67.57,45,Delhi,Delhi,50.22,92
+NIRF-ENGG-1-2450722205,Yeshwantrao Chavan College Of Engineering-Nagpur,45.23,39.29,65.99,73.81,46,NAGPUR,Maharashtra,50.14,93
+NIRF-ENGG-1-2449936766,Adhiyamaan College Of Engineering (Engineering & Technology),52,49.66,54.04,59.65,34,HOSUR,Tamil Nadu,50.04,94
+NIRF-ENGG-1-2452443212,"Maharashtra Academy Of Engineering And Educational Research, Mit College Of Engineering, Pune-Pune",38.75,49.01,64.45,66.6,44,PUNE,Maharashtra,49.66,95
+NIRF-ENGG-1-2455794950,The National Institute Of Engineering,38.67,46.65,77.95,64.66,35,MYSORE,Karnataka,49.514,96
+NIRF-ENGG-1-2453623896,"Government College Of Engineering, Aurangabad (Academic Autonomous)",43.4,49.06,71.34,50.18,43,AURANGABAD,Maharashtra,49.511,97
+NIRF-ENGG-1-2449945774,Anand Institute Of Higher Technology,29.71,55.27,78.24,61.62,35,CHENNAI,Tamil Nadu,49.41,98
+NIRF-ENGG-1-2454813228,Noida Institute Of Engineering & Technology,44.1,38.54,79.51,69.04,27,GAUTAM BUDH NAGAR,Uttar Pradesh,49.24,99
+NIRF-ENGG-1-2455123470,University Institute Of Chemical Engineering And Technology,39.97,56.55,78.3,51.32,17,CHANDIGARH,Chandigarh,49.09,100
