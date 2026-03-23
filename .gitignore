@@ -30,9 +30,12 @@ credentials.json
 token.json
 
 # Large / generated data & databases (critical!)
-data/                     # your real documents — never commit
-chroma_db/                # the entire vector database (~GBs)
-session_records/          # generated PDFs from sessions
+# your real documents - never commit
+data/
+# the entire vector database (~GBs)
+chroma_db/
+# generated PDFs from sessions
+session_records/
 
 # Hugging Face / model caches (very large!)
 .cache/
