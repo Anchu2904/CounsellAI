@@ -1,4 +1,4 @@
-# 🎓 CounsellAI
+#  CounsellAI
 > **RAGxthon 2026 Submission** — A full-stack AI Education Counsellor for Indian students built with LangChain, LangGraph, Chroma, and Streamlit.
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://python.org)
@@ -8,58 +8,58 @@
 
 ---
 
-## 📌 What is CounsellAI?
+## What is CounsellAI?
 
 CounsellAI is a conversational AI agent that **replaces every responsibility of a human education counsellor** for Indian students (Class 10–12, undergrad, and study-abroad aspirants). It combines:
 
-- 🇮🇳 Indian university & board exam data
-- 🌍 Global university rankings + visa statistics
-- 💼 Career placement datasets
-- 🧠 Study-habit & wellness guides
+- Indian university & board exam data
+- Global university rankings + visa statistics
+- Career placement datasets
+- Study-habit & wellness guides
 
 …to deliver **empathetic, evidence-backed, fully cited** counselling sessions — and saves every session as a **downloadable PDF record**.
 
 ---
 
-## 🗺️ Architecture Diagram
+## Architecture Diagram
 
 ```mermaid
 flowchart TD
-    U([👤 Student / Parent]) -->|types query| ST[Streamlit Chat UI]
+    U([Student / Parent]) -->|types query| ST[Streamlit Chat UI]
     ST -->|profile + query| ROUTER
 
     subgraph LangGraph Agent
-        ROUTER[🔀 Router Node\nclassifies category +\ndetects abroad flag]
+        ROUTER[Router Node\nclassifies category +\ndetects abroad flag]
         
-        ROUTER -->|career query| QUIZ[🧩 Aptitude Quiz Node\ngenerates 5 MCQs]
+        ROUTER -->|career query| QUIZ[Aptitude Quiz Node\ngenerates 5 MCQs]
         ROUTER -->|other queries| RETRIEVER
         QUIZ -->|quiz answered| RETRIEVER
 
-        RETRIEVER[🔍 Retriever Node\nmetadata-filtered\nChroma similarity search]
+        RETRIEVER[ Retriever Node\nmetadata-filtered\nChroma similarity search]
         
-        RETRIEVER -->|needs_abroad = true| EASE[🌍 Ease Score Node\nVisa + Admission\nEase Score calculator]
+        RETRIEVER -->|needs_abroad = true| EASE[Ease Score Node\nVisa + Admission\nEase Score calculator]
         RETRIEVER -->|needs_abroad = false| RESPGEN
 
-        EASE --> RESPGEN[💬 Response Generator\nCounsellor LLM\nstructured 5-part reply]
-        RESPGEN --> DOCNODE[📄 Documentation Node\nSession Summary + PDF]
+        EASE --> RESPGEN[Response Generator\nCounsellor LLM\nstructured 5-part reply]
+        RESPGEN --> DOCNODE[Documentation Node\nSession Summary + PDF]
     end
 
     subgraph RAG Pipeline
-        CHROMA[(🗄️ Chroma DB\npersist_directory=./chroma_db)]
-        EMBED[🔢 BGE-large-en-v1.5\nHuggingFace Embeddings]
-        DATA[📁 ./data/\nPDFs + CSVs]
+        CHROMA[(Chroma DB\npersist_directory=./chroma_db)]
+        EMBED[BGE-large-en-v1.5\nHuggingFace Embeddings]
+        DATA[./data/\nPDFs + CSVs]
         DATA -->|ingest.py| EMBED --> CHROMA
         CHROMA -->|top-K chunks + metadata| RETRIEVER
     end
 
-    DOCNODE -->|session PDF| PDF[📥 Downloadable PDF]
+    DOCNODE -->|session PDF| PDF[ Downloadable PDF]
     RESPGEN -->|structured response| ST
     ST -->|renders| U
 ```
 
 ---
 
-## 🧠 RAG Pipeline Explained
+## RAG Pipeline Explained
 
 | Step | What happens |
 |------|-------------|
@@ -73,7 +73,7 @@ flowchart TD
 
 ---
 
-## 🤖 Counsellor Responsibilities → Feature Mapping
+## Counsellor Responsibilities → Feature Mapping
 
 | Counsellor Responsibility | CounsellAI Feature |
 |--------------------------|-------------------|
@@ -86,7 +86,7 @@ flowchart TD
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 CounsellAI/
@@ -105,7 +105,7 @@ CounsellAI/
 
 ---
 
-## ⚡ Quick Start
+## Quick Start
 
 ### 1. Clone & install
 
@@ -159,26 +159,26 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-### 🔀 LangGraph Agentic Flow
+### LangGraph Agentic Flow
 6-node graph with conditional routing — not a simple chain. The agent decides whether to run the aptitude quiz, compute an ease score, or go straight to response generation based on query classification.
 
-### 🧩 Aptitude Quiz Simulator
+### Aptitude Quiz Simulator
 For career queries, CounsellAI auto-generates 5 MCQs across logical, verbal, numerical, spatial, and interest dimensions — rendered as an interactive Streamlit form — before giving career guidance.
 
-### 🌍 Visa + Admission Ease Score
+### Visa + Admission Ease Score
 For abroad queries, the dedicated Ease Score node uses retrieved visa rejection statistics to generate a personalised `High / Medium / Low` score table for the student's target countries, considering their academic profile, IELTS score, and budget.
 
-### 📄 Session PDF Records
+### Session PDF Records
 Every conversation turn produces a clean, branded PDF session record (generated with `fpdf2`) — satisfying the Documentation requirement of the counsellor job description.
 
-### 🔍 Metadata-Filtered Retrieval
+### Metadata-Filtered Retrieval
 Chunks carry `{category, country, source, page}` metadata. Retrieval is filtered so a student asking about Indian colleges never gets Canadian visa data mixed in (unless they ask for it).
 
 ---
 
-## 🛡️ Safety & Ethics
+## Safety & Ethics
 
 - Personal/mental health responses **always** include a disclaimer: *"This is general advice. For serious concerns, please consult a licensed counsellor or helpline."*
 - Indian helpline numbers (**iCall: 9152987821**, **Vandrevala Foundation: 1860-2662-345**) are prominently displayed in the sidebar.
@@ -187,7 +187,7 @@ Chunks carry `{category, country, source, page}` metadata. Retrieval is filtered
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
@@ -203,7 +203,7 @@ Chunks carry `{category, country, source, page}` metadata. Retrieval is filtered
 
 ---
 
-## 🏆 Hackathon Submission Checklist
+## Hackathon Submission Checklist
 
 - [x] GitHub repository with all source code
 - [x] Architecture diagram (Mermaid, see above)
@@ -220,7 +220,7 @@ Chunks carry `{category, country, source, page}` metadata. Retrieval is filtered
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 > Add screenshots of the running app here for your hackathon submission.
 
@@ -231,10 +231,11 @@ Chunks carry `{category, country, source, page}` metadata. Retrieval is filtered
 
 ---
 
-## 📜 License
+## 
+License
 
 MIT License — free to use, modify, and distribute with attribution.
 
 ---
 
-*Built with ❤️ for RAGxthon 2026 · Powered by LangChain + LangGraph + ChromaDB*
+*Built with love for RAGxthon 2026 · Powered by LangChain + LangGraph + ChromaDB*
